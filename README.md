@@ -11,3 +11,5 @@
 # It took a little while to find the right resources to implement my idea for the GUI but once I did it turned out to be fairly simple
 # The project has a lot of room for improvement and features that I would like to add at some point, such as finding f'(n) and of course being able to accept any function as the input.
 # I also had to set up some limitations to the user input to make the logic easier, but I would like to make it possible to input a function without parenthesises. 2x^2 instead of 2(x^2) 
+
+# Video link: https://www.youtube.com/watch?v=7gR67qxV4C0&ab_channel=JohnCurrie
